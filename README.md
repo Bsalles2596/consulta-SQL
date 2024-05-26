@@ -94,7 +94,7 @@ VALUES
     ('Carlos Maia', '2023-07-01', 'Tênis', 1);
 ~~~
 
-### Consulta 
+## Consulta SQL
 
 Para obter os clientes com mais de 5 pedidos, ordenados de forma decrescente pelo total de pedidos, execute a seguinte consulta:
 
