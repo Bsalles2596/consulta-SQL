@@ -1,7 +1,7 @@
 # Consulta SQL avançada
 ## Consulta SQL para encontrar o número total de pedidos feitos por cada cliente;
 
-## Consulta SQL:
+### Consulta SQL:
 --- 
 ~~~
    
@@ -26,19 +26,9 @@ A ordenação decrescente pelo total de pedidos permite visualizar rapidamente o
 O uso da cláusula HAVING para filtrar os clientes com mais de 5 pedidos , evitando a necessidade de realizar um pós-processamento dos dados.
 
 
-~~~
-   $   python -m venv venv  
-~~~
-
-Claro, segue um modelo de README para o seu projeto:
-
-# Projeto Jeito
-
-Este projeto consiste na criação de um banco de dados MySQL chamado "Jeito" com duas tabelas: "Produtos" e "Pedidos".
-
 ## Requisitos
-- MySQL Server instalado e configurado
-- Cliente SQL (como o MySQL Workbench ou o prompt de comando)
+- sqlite instalado e configurado ou (SGBD da sua preferencia)
+- Cliente SQL (SGBD da sua preferencia ou o prompt de comando)
 
 ## Instruções de Configuração
 
